@@ -5,7 +5,7 @@
 # Candidato: Edisio Uchôa Cavalcante Neto
 # Centro Integrado de Tecnologia da Informação — CITI/UFPE
 
-###### ADENDO SUPER IMPORTANTE, Esse documento foi revisado por IA, para ser o mais proficional possível e garantir uma leitura satisfatória do meu racioccínio. Dito isso, existe também a leitura limpa do uso de Ia na qual escrevi tudo a mão. A mesma se encontra dentro do código como comentários. É o meu raciocínio bruto que desenvolvi durante a execução do desafio e onde fica a prova certeira sem filtros do que aprendi e entendi do desafio. #######
+###### ADENDO SUPER IMPORTANTE, Esse documento foi revisado por IA, para ser o mais profissional possível e garantir uma leitura satisfatória do meu racioccínio. Dito isso, existe também a leitura limpa do uso de Ia na qual escrevi tudo a mão. A mesma se encontra dentro do código como comentários. É o meu raciocínio bruto que desenvolvi durante a execução do desafio e onde fica a prova certeira sem filtros do que aprendi e entendi do desafio. #######
 
 # Se isso não for satisfatório, estou a disposição para explicar tudo com minhas palavras pelo contato do meu email e demonstrar que entendi de verdade; 
 
